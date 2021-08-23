@@ -1,7 +1,6 @@
 *.log
 sync.sh
 output/
-source/
 to-website/
 not-public/
 
