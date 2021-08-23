@@ -5,7 +5,7 @@
 # download data for the years specified below
 # note that for the synthetic calendar year files, the output will run from STARTYEAR+1
 # to ENDYEAR-1
-STARTYEAR=2000
+STARTYEAR=1996
 ENDYEAR=2019
 
 # choose download method. options
